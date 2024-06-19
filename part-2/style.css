@@ -1,0 +1,12 @@
+.tweet{
+    margin: 2rem;
+    padding: 2rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 500px;
+}
+
+.message{
+    padding: 0 2rem;
+}
+
